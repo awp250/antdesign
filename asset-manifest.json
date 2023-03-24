@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/antdesign/static/css/main.39ea872c.css",
-    "main.js": "/antdesign/static/js/main.1d7d86a0.js",
+    "main.js": "/antdesign/static/js/main.be3d6cce.js",
     "static/js/787.3c53c7a5.chunk.js": "/antdesign/static/js/787.3c53c7a5.chunk.js",
     "static/media/logo.svg": "/antdesign/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/antdesign/index.html",
     "main.39ea872c.css.map": "/antdesign/static/css/main.39ea872c.css.map",
-    "main.1d7d86a0.js.map": "/antdesign/static/js/main.1d7d86a0.js.map",
+    "main.be3d6cce.js.map": "/antdesign/static/js/main.be3d6cce.js.map",
     "787.3c53c7a5.chunk.js.map": "/antdesign/static/js/787.3c53c7a5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.39ea872c.css",
-    "static/js/main.1d7d86a0.js"
+    "static/js/main.be3d6cce.js"
   ]
 }
